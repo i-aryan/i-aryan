@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋🏻
 
 <!--
 **i-aryan/i-aryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
