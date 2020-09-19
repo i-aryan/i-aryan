@@ -1,5 +1,5 @@
-### Hey!
-I'm working on JavaScript projects nowadays. Have new ideas? Ping me.
+### Hey, I'm Aryan!
+<i>I'm working on JavaScript projects nowadays. Have new ideas? Ping me.</i>
 
 <!--
 **i-aryan/i-aryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
