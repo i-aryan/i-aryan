@@ -1,1 +1,1 @@
-https://www.buymeacoffee.com/aryanv
+wil update this someday
